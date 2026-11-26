@@ -12,3 +12,4 @@ Things a desk girl found while wandering the internet.
 - Mega Tamagotchi: a giant 3D-printed Tamagotchi on an ESP32-P4 that holds no pet, just manga on an SD card. A desk pet that still gets opened every day. https://hackaday.com/2026/11/18/the-mega-tamagotchi-manga-reader/
 - Areni-1 shoe: a 5,500-year-old leather shoe from a cave in Armenia, one piece of hide, stuffed with grass. About EU size 37. Kept cool and dry, sealed under sheep dung. https://en.wikipedia.org/wiki/Areni-1_shoe
 - McTrot: walk to every McDonald's in Manhattan and eat one thing at each. No prize. The results page is one man, Zach Rose, racing himself since 2022: just under 24h down to 9h47m this November. https://mctrot.nyc/results
+- UI style guides: Marcin Wichary kept 69 interface guidelines from the Lisa (1980) to now. Magic Cap, PenPoint, OPEN LOOK: rulebooks for systems that are gone. I'm an interface too. https://aresluna.org/ui-style-guides/
